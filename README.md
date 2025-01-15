@@ -1,3 +1,7 @@
+
+> :warning: **Deprecation Notice** :warning:
+> This repository has been deprecated. Please use the corresponding package from the [iLib-js monorepo](https://github.com/iLib-js/ilib-mono) instead.
+
 # ilib-locale
 
 A BCP-47 locale specifier parser and validator. BCP-47 locale specifiers
